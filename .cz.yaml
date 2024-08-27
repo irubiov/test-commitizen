@@ -1,6 +1,7 @@
 ---
 commitizen:
   name: cz_conventional_commits
+  changelog_incremental: false
   tag_format: $version
   update_changelog_on_bump: true
   version_provider: scm
